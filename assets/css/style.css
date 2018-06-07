@@ -5,13 +5,13 @@ body {
 }
 
 .jumbotron {
-	background-color: orange;
+	background-color: rgba(17, 0, 255, 0.781);
 	color: white;
 }
 
 .target-number {
 	font-size: 30px;
-	background-color: #F8CF9C;
+	background-color: gold;
 	border-style: solid;
 	border-color: #ddd;
 	border-width: 4px;
