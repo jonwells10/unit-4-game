@@ -5,8 +5,20 @@ body {
 }
 
 .jumbotron {
-	background-color: rgba(17, 0, 255, 0.781);
+	background-color: rgb(197, 65, 197);
 	color: white;
+}
+
+.panel {
+    background-color: rgba(105, 23, 105, 0.418);
+    color: aquamarine;
+    font-size: 20px;
+}
+
+.panel-default {
+    background-color: rgba(105, 23, 105, 0.418);
+    color: aquamarine;
+    font-size: 20px;
 }
 
 .target-number {
