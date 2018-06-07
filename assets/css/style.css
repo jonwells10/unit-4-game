@@ -10,15 +10,16 @@ body {
 }
 
 .target-number {
-	font-size: 30px;
+    font-size: 30px;
+    text-align: center;
 	background-color: gold;
 	border-style: solid;
-	border-color: #ddd;
+	border-color: rgba(233, 6, 195, 0.767);
 	border-width: 4px;
 }
 
 .win-lose-counter {
-	background-color: #9CE7F8;
+	background-color: rgba(3, 247, 145, 0.733);
 	border-style: solid;
 	border-color: #ddd;
 	border-width: 4px;
@@ -35,7 +36,8 @@ body {
 }
 
 .score-number {
-	color: white;
+    color: white;
+    text-align: center;
 	background-color: #4aaaa5;
-	font-size: 30px;
+	font-size: 40px;
 }

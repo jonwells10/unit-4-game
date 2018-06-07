@@ -40,7 +40,7 @@ function totalReset () {
 
 // Running Code
 
-// Inital Page Set Up
+// Page Set Up
 randomTargetNumber();
 resetHTML ();
 resetCrystals ();
